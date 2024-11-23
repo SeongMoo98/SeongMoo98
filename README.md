@@ -31,9 +31,6 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
     <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
    
