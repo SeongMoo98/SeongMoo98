@@ -28,7 +28,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
