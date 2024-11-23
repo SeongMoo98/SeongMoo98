@@ -37,7 +37,7 @@ Bachelor Degree of Computer Science Engineering ```(03/2018 ~ 02/2024)``` (Pusan
 </span>
 
 ## Publications 
-**S. Lee et al. "Hidden Markov Model based POI recommandation and Trajectory visualization"**  
+**S. Lee et al. "Hidden Markov Model based POI recommendation and Trajectory visualization"**  
 ```KSC 2023```  Accept (Poster presentation)  
 
 </div>
