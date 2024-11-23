@@ -33,21 +33,8 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` 
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
-   
 <span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </span>
 
 ## Publications 
