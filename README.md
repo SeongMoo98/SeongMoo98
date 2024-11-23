@@ -37,10 +37,8 @@ Bachelor Degree of Computer Science Engineering ```(03/2018 ~ 02/2024)``` (Pusan
 </span>
 
 ## Publications 
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```WACV 2024```  Accept (Poster presentation)  
-**I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation"**  
-```ECCV 2024```  Accept (Poster presentation)  
+**S. Lee et al. "Hidden Markov Model based POI recommandation and Trajectory visualization"**  
+```KSC 2023```  Accept (Poster presentation)  
 
 </div>
 </div>
