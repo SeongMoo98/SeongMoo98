@@ -23,9 +23,8 @@ Feel free to reach out for a coffee chat! ☕☕
 AI Research   
 
 ## EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` (Yonsei University, Seoul)   
-
+Bachelor Degree of Computer Science Engineering ```(03/2018 ~ 02/2024)``` (Pusan National University, Pusan)   
+  
 ## ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=white"/>
