@@ -14,8 +14,10 @@
 </div>
 <br><br>
 
+<!--
 <details>
 <summary>About Me</summary>
+-->
 
 <div align="left">  
 
