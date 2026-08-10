@@ -15,10 +15,12 @@
 
 ## 🔭 Currently
 
+'''
 company: "KT"
 role: "Software Engineer"
 focus: "LLM-driven development workflows & AI-augmented engineering"
 approach: "Orchestrating AI coding agents to ship production features faster"
+'''
 
 <br>
 
