@@ -15,12 +15,10 @@
 
 ## 🔭 Currently
 
-'''
 company: "KT"
 role: "Software Engineer"
 focus: "LLM-driven development workflows & AI-augmented engineering"
 approach: "Orchestrating AI coding agents to ship production features faster"
-'''
 
 <br>
 
@@ -46,11 +44,15 @@ Pusan National University, Busan · 03/2018 – 02/2024
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM%20Engineering-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 
 <br>
 
