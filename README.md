@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Seongmoo%20Lee&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI-Augmented%20Software%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Seongmoo+%F0%9F%91%8B;Data+Scientist+%40+KT;Designing+LLM-driven+Dev+Workflows;Human-in-the-loop+Software+Engineering" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Seongmoo+%F0%9F%91%8B;Data+Scientist+%40;Designing+LLM-driven+Dev+Workflows;Human-in-the-loop+Software+Engineering" alt="Typing SVG" /></a>
 
 <br><br>
 
