@@ -22,7 +22,7 @@ approach: "Orchestrating AI coding agents to ship production features faster"
 
 <br>
 
-🎓 Education
+## 🎓 Education
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ Pusan National University, Busan · 03/2018 – 02/2024
 
 <br>
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -52,14 +52,14 @@ Pusan National University, Busan · 03/2018 – 02/2024
 
 <br>
 
-📄 Publications
+## 📄 Publications
 
 ▎ S. Lee et al., "Hidden Markov Model based POI recommendation and Trajectory visualization"
 ▎ KSC 2023 — ✅ Accepted (Poster presentation)
 
 <br>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeongMoo98&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="49%" />
@@ -72,7 +72,7 @@ Pusan National University, Busan · 03/2018 – 02/2024
 
 <br>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SeongMoo98/SeongMoo98/output/github-contribution-grid-snake-dark.svg" width="90%"/>
