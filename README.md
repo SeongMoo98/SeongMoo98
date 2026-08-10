@@ -84,3 +84,16 @@ Pusan National University, Busan · 03/2018 – 02/2024
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer" width="100%"/>
 </div>
+```
+
+2. .github/workflows/snake.yml (같은 저장소, 이 경로에 새로 생성)
+
+name: Generate Snake Animation
+
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer" width="100%"/>
+</div>
+```
