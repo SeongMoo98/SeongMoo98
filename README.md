@@ -14,13 +14,16 @@
 <br>
 
 ## 🔭 Currently
+
 <table>
 <tr><td>
 
+```yaml
 company: KT
 role: Software Engineer
 focus: LLM-driven development workflows & AI-augmented engineering
 approach: Orchestrating AI coding agents to ship production features faster
+```
 
 </td></tr>
 </table>
@@ -34,8 +37,8 @@ approach: Orchestrating AI coding agents to ship production features faster
 <td>🎓</td>
 <td>
 
-Bachelor of Computer Science Engineering
-Pusan National University, Busan · 03/2018 – 02/2024
+**Bachelor of Computer Science Engineering**
+Pusan National University, Busan · `03/2018 – 02/2024`
 
 </td>
 </tr>
@@ -68,10 +71,10 @@ Pusan National University, Busan · 03/2018 – 02/2024
 <td width="72" align="center">📝</td>
 <td>
 
-Hidden Markov Model based POI recommendation and Trajectory visualization
-S. Lee et al. · KSC 2023
+**Hidden Markov Model based POI recommendation and Trajectory visualization**
+S. Lee et al. · `KSC 2023`
 
-Accepted (https://img.shields.io/badge/Accepted-Poster%20Presentation-2ea44f?style=flat-square)
+![Accepted](https://img.shields.io/badge/Accepted-Poster%20Presentation-2ea44f?style=flat-square)
 
 </td>
 </tr>
